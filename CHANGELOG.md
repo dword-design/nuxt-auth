@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/nuxt-auth/compare/v1.0.2...v1.0.3) (2020-12-11)
+
+
+### Bug Fixes
+
+* replace get-package-name with depcheck-package-name ([3738312](https://github.com/dword-design/nuxt-auth/commit/3738312b6c3ee47c7e7ce5d13f369170672ead9d))
+
 ## [1.0.2](https://github.com/dword-design/nuxt-auth/compare/v1.0.1...v1.0.2) (2020-12-02)
 
 
