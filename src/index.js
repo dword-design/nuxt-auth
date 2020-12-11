@@ -1,8 +1,8 @@
-import getPackageName from 'get-package-name'
+import packageName from 'depcheck-package-name'
 
 export default function (moduleOptions) {
   this.addModule([
-    getPackageName(require.resolve('@nuxtjs/auth')),
+    packageName`@nuxtjs/auth`,
     {
       ...moduleOptions,
       plugins: [...(moduleOptions.plugins || []), require.resolve('./plugin')],
