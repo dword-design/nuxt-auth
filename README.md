@@ -64,7 +64,7 @@ $ yarn add @dword-design/nuxt-auth
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/nuxt-auth/issues) or [pull request](https://github.com/dword-design/nuxt-auth/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/nuxt-auth/issues) or a [pull request](https://github.com/dword-design/nuxt-auth/pulls)! ⚙️
 
 ## Support
 
