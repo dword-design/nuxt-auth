@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/dword-design/nuxt-auth/compare/v1.0.5...v1.0.6) (2021-04-12)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#13](https://github.com/dword-design/nuxt-auth/issues/13)) ([7ad8b5e](https://github.com/dword-design/nuxt-auth/commit/7ad8b5e2073a3dc01840a5e20db087753936ea72))
+
 ## [1.0.5](https://github.com/dword-design/nuxt-auth/compare/v1.0.4...v1.0.5) (2021-03-22)
 
 
