@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@nuxtjs/auth": "^4.9.1",
-    "depcheck-package-name": "^1.0.0"
+    "depcheck-package-name": "^1.0.5"
   },
   "devDependencies": {
     "@dword-design/base": "^7.0.0"
