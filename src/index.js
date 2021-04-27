@@ -1,11 +1,12 @@
 import packageName from 'depcheck-package-name'
 
-export default function (moduleOptions) {
-  this.addModule([
+export default async function (options) {
+  options = { plugins: [], ...options }
+  await this.addModule([
     packageName`@nuxtjs/auth`,
     {
-      ...moduleOptions,
-      plugins: [...(moduleOptions.plugins || []), require.resolve('./plugin')],
+      ...options,
+      plugins: [...options.plugins, require.resolve('./plugin')],
       rewriteRedirects: false,
     },
   ])
