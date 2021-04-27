@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/dword-design/nuxt-auth/compare/v1.0.8...v1.0.9) (2021-04-27)
+
+
+### Bug Fixes
+
+* await addModule ([#22](https://github.com/dword-design/nuxt-auth/issues/22)) ([8e63db3](https://github.com/dword-design/nuxt-auth/commit/8e63db3472ef5c866edbe27a4679131fd74425f3))
+
 ## [1.0.8](https://github.com/dword-design/nuxt-auth/compare/v1.0.7...v1.0.8) (2021-04-22)
 
 
