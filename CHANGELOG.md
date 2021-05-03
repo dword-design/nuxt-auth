@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/nuxt-auth/compare/v1.0.10...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#24](https://github.com/dword-design/nuxt-auth/issues/24)) ([21bd8cc](https://github.com/dword-design/nuxt-auth/commit/21bd8cccd0e3984513f5b02ae6c08a3a7010b080))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.10](https://github.com/dword-design/nuxt-auth/compare/v1.0.9...v1.0.10) (2021-04-28)
 
 
