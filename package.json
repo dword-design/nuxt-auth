@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@nuxtjs/auth": "^4.9.1",
-    "depcheck-package-name": "^1.0.0"
+    "depcheck-package-name": "^2.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^8.0.0"
