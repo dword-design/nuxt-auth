@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/nuxt-auth/compare/v2.0.0...v2.0.1) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency depcheck-package-name to v2 ([#25](https://github.com/dword-design/nuxt-auth/issues/25)) ([ba5c260](https://github.com/dword-design/nuxt-auth/commit/ba5c260d44af3c10c6b259308e5a5c88bde42748))
+
 # [2.0.0](https://github.com/dword-design/nuxt-auth/compare/v1.0.10...v2.0.0) (2021-05-03)
 
 
