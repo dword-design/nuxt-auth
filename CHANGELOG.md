@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/dword-design/nuxt-auth/compare/v2.0.1...v2.0.2) (2021-05-28)
+
+
+### Bug Fixes
+
+* update config files ([8877f0d](https://github.com/dword-design/nuxt-auth/commit/8877f0da7e9dcfdcbf2908a31715f920d0f2f4e3))
+
 ## [2.0.1](https://github.com/dword-design/nuxt-auth/compare/v2.0.0...v2.0.1) (2021-05-04)
 
 
